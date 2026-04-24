@@ -1,0 +1,53 @@
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\obj\Debug\VoteChallenge.csproj.AssemblyReference.cache
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\obj\Debug\VoteChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\VoteChallenge.exe.config
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\VoteChallenge.exe
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\VoteChallenge.pdb
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Buffers.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Memory.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Text.Json.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Buffers.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Memory.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Text.Json.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\obj\Debug\VoteChal.822A97C9.Up2Date
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\obj\Debug\VoteChallenge.exe
+C:\Users\Jose Gilberto330\source\repos\VoteChallenge\VoteChallenge\obj\Debug\VoteChallenge.pdb
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\VoteChallenge.exe.config
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\VoteChallenge.exe
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\VoteChallenge.pdb
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Buffers.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.IO.Pipelines.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Memory.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Numerics.Vectors.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Text.Encodings.Web.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Text.Json.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Buffers.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.IO.Pipelines.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Memory.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Numerics.Vectors.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Text.Encodings.Web.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Text.Json.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\obj\Debug\VoteChallenge.csproj.AssemblyReference.cache
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\obj\Debug\VoteChallenge.exe.config
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\obj\Debug\VoteChallenge.csproj.CoreCompileInputs.cache
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\obj\Debug\VoteChal.822A97C9.Up2Date
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\obj\Debug\VoteChallenge.exe
+C:\code\psl\technical-challenges\TechnicalChallenges\VoteChallenge\obj\Debug\VoteChallenge.pdb
