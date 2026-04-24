@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\code\\psl\\technical-challenges\\TechnicalChallenges\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39A9C7EE-3607-45DE-A92C-8ED1954673B4}|VoteChallenge\\VoteChallenge.csproj|c:\\code\\psl\\technical-challenges\\technicalchallenges\\votechallenge\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{39A9C7EE-3607-45DE-A92C-8ED1954673B4}|VoteChallenge\\VoteChallenge.csproj|solutionrelative:votechallenge\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39A9C7EE-3607-45DE-A92C-8ED1954673B4}|VoteChallenge\\VoteChallenge.csproj|c:\\code\\psl\\technical-challenges\\technicalchallenges\\votechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39A9C7EE-3607-45DE-A92C-8ED1954673B4}|VoteChallenge\\VoteChallenge.csproj|solutionrelative:votechallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -67,6 +71,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\code\\psl\\technical-challenges\\TechnicalChallenges\\VoteChallenge\\README.md",
+              "RelativeDocumentMoniker": "VoteChallenge\\README.md",
+              "ToolTip": "C:\\code\\psl\\technical-challenges\\TechnicalChallenges\\VoteChallenge\\README.md",
+              "RelativeToolTip": "VoteChallenge\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-24T19:38:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\code\\psl\\technical-challenges\\TechnicalChallenges\\VoteChallenge\\Program.cs",
               "RelativeDocumentMoniker": "VoteChallenge\\Program.cs",
