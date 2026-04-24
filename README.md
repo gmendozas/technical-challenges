@@ -1,2 +1,3 @@
-# votes-counter-challenge
-Based on the Hackerrank coding test.
+# Tehcnical Challenges
+
+This is a solution for several technical challenges I have faced during technical interviews.
