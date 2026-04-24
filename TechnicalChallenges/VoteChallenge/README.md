@@ -4,7 +4,7 @@ This challenge requires to consume a REST API GET endpoint which returns a colle
 
 Example of request:
 
-* * City: Seattle
+* City: Seattle
 * Estimated Cost: 110
 
 Example of a response:
