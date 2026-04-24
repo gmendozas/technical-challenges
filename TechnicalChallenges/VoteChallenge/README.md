@@ -31,3 +31,5 @@ Example of a response:
 Expected result:
 
 * 2116
+
+![Example of execution](https://github.com/gmendozas/technical-challenges/blob/main/TechnicalChallenges/VoteChallenge/votes.PNG)
